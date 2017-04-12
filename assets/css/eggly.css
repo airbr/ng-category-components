@@ -42,6 +42,7 @@ a:hover {
 }
 
 .logo {
+    width: 100%;
     padding: 20px;
 }
 
@@ -110,3 +111,5 @@ a:hover {
 .create-form, .edit-form {
     padding: 20px;
 }
+
+
